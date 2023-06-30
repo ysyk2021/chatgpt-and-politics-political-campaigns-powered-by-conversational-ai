@@ -3,11 +3,6 @@ How ChatGPT can be used for powering political campaigns through conversational 
 
 ChatGPT is an advanced conversational AI platform developed by OpenAI that uses machine learning algorithms to generate human-like responses to user queries. This technology has several potential applications in the world of politics, including powering political campaigns through conversational AI.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a powerful natural language processing tool that can understand and respond to user input in a way that mimics human conversation. It is based on a deep neural network architecture that has been trained on a massive corpus of text data, allowing it to generate highly accurate and context-specific responses to user queries.
-
 Using ChatGPT for political campaigns
 -------------------------------------
 
