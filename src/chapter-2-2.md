@@ -1,5 +1,3 @@
-Different types of political campaigns
-================================================================================
 
 Political campaigns come in various forms, and candidates or groups can employ different strategies depending on the type of election or issue being promoted. Here are some of the most common types of political campaigns:
 

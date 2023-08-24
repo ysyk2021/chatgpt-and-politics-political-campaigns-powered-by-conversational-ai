@@ -1,5 +1,3 @@
-Overview of the book
-==================================
 
 This book is an exploration of the use of conversational AI, specifically ChatGPT, in political campaigns. It provides insights, best practices, and case studies on how chatbots and AI technology can be used effectively and ethically to engage voters and deliver personalized messaging.
 

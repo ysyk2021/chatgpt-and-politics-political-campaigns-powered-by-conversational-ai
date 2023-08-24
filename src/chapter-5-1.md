@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is a state-of-the-art conversational AI technology that has the potential to revolutionize political campaigns. In this chapter, we will explore what ChatGPT is and how it works.
 

@@ -1,5 +1,3 @@
-Explanation of politics and its importance
-========================================================
 
 Politics is the art or science of government, involving the study of power and the distribution of resources within a society. It encompasses everything from elections and policy-making to civic engagement and social movements.
 

@@ -1,5 +1,3 @@
-Definition of political campaigns
-===========================================================================
 
 Political campaigns are a vital aspect of the democratic process, serving as a means for candidates to promote their ideas and engage voters. A political campaign is a coordinated effort by a candidate or group of candidates to win an election or gain support for a particular issue or cause.
 

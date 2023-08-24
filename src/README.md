@@ -1,4 +1,3 @@
-# Introduction
 
 Politics has always been about communication. From the earliest days of democracy, political campaigns have relied on effective messaging to mobilize voters and win elections. However, in recent years, the rise of social media and digital technology has transformed the way politicians communicate with their constituents.
 

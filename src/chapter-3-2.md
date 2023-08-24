@@ -1,5 +1,3 @@
-Common challenges faced by political campaign teams
-=================================================================================================
 
 Political campaigns are complex undertakings that require careful planning, execution, and management. Some of the common challenges faced by political campaign teams include:
 

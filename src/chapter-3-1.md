@@ -1,5 +1,3 @@
-Factors affecting political campaigns
-===================================================================================
 
 Political campaigns are complex and multifaceted, with numerous factors that can impact their effectiveness. Some of the key factors affecting political campaigns include:
 
