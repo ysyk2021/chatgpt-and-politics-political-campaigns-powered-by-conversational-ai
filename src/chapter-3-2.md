@@ -1,5 +1,4 @@
-Chapter 6: Common Challenges Faced by Political Campaign Teams
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the common challenges that political campaign teams encounter when incorporating ChatGPT and conversational AI into their strategies.
 

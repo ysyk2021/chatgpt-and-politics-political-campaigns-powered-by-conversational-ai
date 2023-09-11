@@ -1,5 +1,4 @@
-Chapter 7: Best Practices for Using ChatGPT in Reaching Voters through Personalized Conversations
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for utilizing ChatGPT, an AI-powered conversational tool, in political campaigns to engage with voters through personalized conversations. By leveraging the capabilities of ChatGPT, political campaigns can establish a more direct and interactive connection with voters, tailoring messaging and addressing individual concerns. However, it is crucial to follow certain best practices to ensure effective and ethical use of this technology.
 

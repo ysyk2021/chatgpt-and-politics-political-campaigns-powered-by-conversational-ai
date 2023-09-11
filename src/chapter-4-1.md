@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an introduction to the world of Artificial Intelligence (AI) and Chatbots and their role in political campaigns. We explore how AI-powered Chatbots can revolutionize political communication, engagement with voters, and enable more efficient and personalized interactions.
 

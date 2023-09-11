@@ -1,5 +1,4 @@
-Chapter 10: Conclusion and Future Outlook
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we summarize the key findings and insights from this book on "ChatGPT and Politics: Political Campaigns Powered by Conversational AI." We also explore the future outlook and potential advancements in leveraging ChatGPT for political campaigns.
 

@@ -1,5 +1,4 @@
-Chapter 8: Potential Advancements in Political Campaigns with ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential advancements that ChatGPT and conversational AI can bring to political campaigns. These technologies have the capacity to revolutionize campaign strategies, voter engagement, and overall campaign effectiveness.
 

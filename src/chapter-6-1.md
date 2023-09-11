@@ -1,5 +1,4 @@
-Chapter 5: Steps to Implement ChatGPT in Political Campaigns
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we outline the essential steps for implementing ChatGPT, an AI-powered conversational tool, in political campaigns. These steps will guide you through the process of integrating ChatGPT effectively, ensuring its successful deployment and utilization for engaging with voters.
 

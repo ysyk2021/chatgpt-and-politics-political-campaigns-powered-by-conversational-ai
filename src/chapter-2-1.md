@@ -1,5 +1,4 @@
-Chapter 2: Definition of Political Campaigns
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide a comprehensive definition of political campaigns, exploring their purpose, key elements, and significance in the political landscape. We delve into the multifaceted nature of political campaigns and highlight their role in shaping democratic processes.
 

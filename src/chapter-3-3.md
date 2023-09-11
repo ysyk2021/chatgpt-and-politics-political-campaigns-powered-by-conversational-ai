@@ -1,5 +1,4 @@
-Chapter 8: Impact of These Challenges on Voter Engagement and Turnout
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the impact of the challenges discussed earlier on voter engagement and turnout in political campaigns powered by ChatGPT and conversational AI.
 

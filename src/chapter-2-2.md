@@ -1,5 +1,4 @@
-Chapter 5: Different Types of Political Campaigns
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various types of political campaigns that are commonly employed in the political landscape. Each type serves a unique purpose, targeting specific objectives and demographics. By understanding these different campaign approaches, political organizations can effectively tailor their strategies to achieve desired outcomes.
 

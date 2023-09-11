@@ -1,5 +1,4 @@
-Chapter 4: Importance of Reaching Voters through Personalized Conversations
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the significance of reaching voters through personalized conversations in political campaigns. We explore how AI-powered Chatbots can facilitate these interactions, fostering deeper engagement, trust, and impact on the electorate.
 

@@ -1,5 +1,4 @@
-Chapter 7: How ChatGPT can Power Political Campaigns through Conversational AI
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative potential of ChatGPT and conversational AI in powering political campaigns. We examine how these technologies can revolutionize communication strategies, voter engagement, and campaign efficiency.
 

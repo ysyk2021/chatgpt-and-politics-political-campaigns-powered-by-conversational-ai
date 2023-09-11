@@ -1,5 +1,4 @@
-Chapter 9: Emerging Trends and Challenges in Politics and ChatGPT
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the emerging trends and challenges at the intersection of politics and ChatGPT. As conversational AI continues to evolve, it brings both opportunities and complexities to political campaigns and the broader political landscape.
 

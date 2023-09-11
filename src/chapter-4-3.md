@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Using AI and Chatbots for Political Campaigns
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the numerous benefits that AI and Chatbots bring to political campaigns. By leveraging these technologies, political organizations can revolutionize their communication strategies, enhance voter engagement, and streamline campaign operations.
 
